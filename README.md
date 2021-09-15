@@ -14,4 +14,4 @@ Script should be connected to the MySQL database, in which objects data is store
 
 The example of how your database data should have you can find in the ```data.csv```. 
 
-This script is made for (arregro website)[https://github.com/sashasergeev/arregro-django/].
+This script is made for [arregro website](https://github.com/sashasergeev/arregro-django/).
